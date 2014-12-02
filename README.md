@@ -1,4 +1,3 @@
 datasciencecoursera
 ===================
-
-Course work for Data Science course.
+This is my GitHub repo for the Data Science course at Coursera.
